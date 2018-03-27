@@ -42,3 +42,5 @@ a tool devoted to the **2D/3D generation of ensemble of conformations for small 
  The Frog2 project is open to external contributions:
 
  Our time to enhance and maintain Frog2 is sparse. Feel free to contribute!  
+
+- **FORKED FROM https://github.com/tuffery/Frog2**
